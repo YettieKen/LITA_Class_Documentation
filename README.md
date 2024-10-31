@@ -1,19 +1,20 @@
 # LITA_Class_Documentation
 
 ### Project title - Employee Analysis
+
  [Project overview].(#project-overview)
  
- {Data Sources}.(#data-sources)
+ [Data Sources](#data-sources)
  
- {Tools used}.(#tools-used)
+ [Tools used](#tools-used)
  
- {Data Cleaning and Preparations}.(#data-cleaning-and-preparation)
+ [Data Cleaning and Preparations](#data-cleaning-and-preparation)
  
- {Exploratory Data Analysis}.(#exploratory-data-analysis)
+ [Exploratory Data Analysis](#exploratory-data-analysis)
  
- {Data Analysis}.(#data-analysis)
+ [Data Analysis](#data-analysis)
  
- {Data Visualization}.(#data-visualization)
+ [Data Visualization](#data-visualization)
 
 ### Project overview 
 ---
