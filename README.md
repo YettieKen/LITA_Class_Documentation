@@ -20,8 +20,19 @@ The primary source of Data used is Employee information.
 2. A table was created with the Primary Key
 3. Different queries was written based on question asked
 
-   
 ### Exploratory Data Analysis
+ 1. The data was explored to calculate Staff's payment method (cash or transfer)
+ 2. The Second name was added to the Payment voucher
+### Data Analysis
+Some basic lines of code and queries were used;
+
+```SQL
+SELECT * FROM SALAR TABLE
+select count(staffid),department from Salary
+group by department
+```
+
+    
 ### Data Analysis
 
 ### Data Visualization
