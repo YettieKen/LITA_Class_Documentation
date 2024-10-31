@@ -1,7 +1,7 @@
 # LITA_Class_Documentation
 
 ### Project title - Employee Analysis
- {Project overview }.(#project-overview)
+ [Project overview].(#project-overview)
  
  {Data Sources}.(#data-sources)
  
