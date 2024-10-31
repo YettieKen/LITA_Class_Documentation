@@ -12,6 +12,7 @@ The primary source of Data used is Employee information.
   1. Data cleaning
   2. Data Analysis
   3. Data Visualization
+     
 - SQL-Structured Query language
 - GitHub for portfolio Building
 ### Data Cleaning and Preparation
