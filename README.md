@@ -1,6 +1,19 @@
 # LITA_Class_Documentation
 
 ### Project title - Employee Analysis
+ {Project overview }.(#project-overview)
+ 
+ {Data Sources}.(#data-sources)
+ 
+ {Tools used}.(#tools-used)
+ 
+ {Data Cleaning and Preparations}.(#data-cleaning-and-preparation)
+ 
+ {Exploratory Data Analysis}.(#exploratory-data-analysis)
+ 
+ {Data Analysis}.(#data-analysis)
+ 
+ {Data Visualization}.(#data-visualization)
 
 ### Project overview 
 ---
@@ -28,6 +41,7 @@ The primary source of Data used is Employee information.
 ---
  1. The data was explored to calculate Staff's payment method (cash or transfer)
  2. The Second name was added to the Payment voucher
+    
 ### Data Analysis
 ---
 Some basic lines of code and queries were used;
@@ -39,4 +53,7 @@ group by department
 ```
 
 ### Data Visualization
+---
 [SQL DB 1.xlsx](https://github.com/user-attachments/files/17581189/SQL.DB.1.xlsx)
+
+💻💻💻
