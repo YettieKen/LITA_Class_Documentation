@@ -15,7 +15,12 @@ The primary source of Data used is Employee information.
      
 - SQL-Structured Query language
 - GitHub for portfolio Building
-### Data Cleaning and Preparation
+### Data Cleaning and Preparations
+1. A database was created with name LITA_DB
+2. A table was created with the Primary Key
+3. Different queries was written based on question asked
+
+   
 ### Exploratory Data Analysis
 ### Data Analysis
 
