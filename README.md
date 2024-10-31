@@ -1,8 +1,13 @@
 # LITA_Class_Documentation
-### Project title 
-### Project overview
+
+### Project title - Employee Analysis
+
+### Project overview 
+This analysis shows a detailed information on Employee information of a certain organiztion. 
+
 ### Data Sources
-### Tools used
+The primary source of Data used is Employee information. 
+ ### Tools used
 - Microsoft excel for Data cleaning, Analysis and visualization
 - SQL-Structured Query language
 - GitHub for portfolio Building
