@@ -8,7 +8,10 @@ This analysis shows a detailed information on Employee information of a certain 
 ### Data Sources
 The primary source of Data used is Employee information. 
  ### Tools used
-- Microsoft excel for Data cleaning, Analysis and visualization
+- Microsoft excel [Download Here](https://www.microsoft.com)
+  1. Data cleaning
+  2. Data Analysis
+  3. Data Visualization
 - SQL-Structured Query language
 - GitHub for portfolio Building
 ### Data Cleaning and Preparation
